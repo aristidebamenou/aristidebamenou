@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Aristide Bamenou
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning Python, Javascript, Ruby, Rust and Java
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Ruby On Rails, Spring and Rust
+- 💞️ I’m looking to collaborate on any project
+- 📫 How to reach me aristide.bamenou@hotmail.com
 
 <!---
 aristidebamenou/aristidebamenou is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
