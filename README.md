@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Aristide Bamenou
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Ruby and JavaScript
-- 💞️ I’m looking to collaborate on ruby on rails projects
+- 💞️ I’m looking to collaborate on ruby on rails and react projects
 - 📫 How to reach me aristide.bamenou@hotmail.com
 
 <!---
