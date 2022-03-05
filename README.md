@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aristide Bamenou</h1>
-<h3 align="center">fullstack ruby developer</h3>
+<h3 align="center">Fullstack Ruby Developer</h3>
 
 - 🔭 I’m currently working on [milleetunmots](https://github.com/milleetunmots/app)
 
